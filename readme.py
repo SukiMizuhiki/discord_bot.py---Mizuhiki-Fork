@@ -1,0 +1,1 @@
+Izumi is a discord bot created with the help of discord_bot.py made by AlexFlipnote
